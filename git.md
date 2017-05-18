@@ -19,6 +19,7 @@ git push origin master
 
 git branch [name]  
 git branch --set-upstream master origin/master  
+Git新建本地分支与远程分支关联
 git remote
 
 
