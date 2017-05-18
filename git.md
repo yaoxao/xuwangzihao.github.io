@@ -20,3 +20,7 @@ git push origin master
 git branch [name]  
 git branch --set-upstream master origin/master  
 git remote
+
+
+git config --global credential.helper store  
+配置让GIT记住密码账号。  
