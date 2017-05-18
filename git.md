@@ -18,5 +18,5 @@ git push origin master
 如果远程分支被省略，如上则表示将本地分支推送到与之存在追踪关系的远程分支（通常两者同名），如果该远程分支不存在，则会被新建
 
 git branch [name]  
-
+git branch --set-upstream master origin/master  
 git remote
