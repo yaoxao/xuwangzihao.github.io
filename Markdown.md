@@ -19,4 +19,6 @@ using namespace std;
 
  *ddd* 
 
-[github markdown](https://guides.github.com/features/mastering-markdown/)
+[github markdown](https://guides.github.com/features/mastering-markdown/)  
+`[]()`
+"markdown.styles": [ "file:///D:/user.css" ]
