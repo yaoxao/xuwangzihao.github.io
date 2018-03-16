@@ -75,9 +75,7 @@
 
 首先说说工作环境，大公司有的这边都有
 - 一个书架
-![](http://oo1nxbzgl.bkt.clouddn.com/momo_books.jpg)
 - 免费零食
-![momo_book.png](http://oo1nxbzgl.bkt.clouddn.com/momo_office_food.jpg)
 - 免费茶水咖啡
 - 免费switch（这个前提你要和JT同学搞好关系,或者你抢得过他hhh）
 ![](http://oo1nxbzgl.bkt.clouddn.com/momo_switch.jpg)
@@ -85,9 +83,12 @@
 ![](http://oo1nxbzgl.bkt.clouddn.com/momo_screen.jpg)
 
 大公司没有的这边也有
-- 免费的程序员鼓励师（英短渐层）
-![momo_book.png](http://oo1nxbzgl.bkt.clouddn.com/momo_laifu_01.jpg)
+- 免费的程序员鼓励师（首席安慰官）
 ![momo_book.png](http://oo1nxbzgl.bkt.clouddn.com/momo_wangcai_01.jpg)
+![momo_book.png](http://oo1nxbzgl.bkt.clouddn.com/momo_wangcai_02.jpg)
+![momo_book.png](http://oo1nxbzgl.bkt.clouddn.com/momo_wangcai_03.jpg)
+![momo_book.png](http://oo1nxbzgl.bkt.clouddn.com/momo_wangcai_04.jpg)
+![momo_book.png](http://oo1nxbzgl.bkt.clouddn.com/momo_wangcai_05.jpg)
 - 免费的出行工具（汽车、自行车、平衡车、电动滑板）
 - 免费的酒（喝高了打代码有种人机合一的畅快感觉hhhh）
 - 豪华浴室（是的，新办公室最花钱的部分hhhhhh）
@@ -188,18 +189,3 @@
 
 
 体验就是：一个温暖的地方，要不是觉得自己太菜还需要学习，一定还会回去的
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
